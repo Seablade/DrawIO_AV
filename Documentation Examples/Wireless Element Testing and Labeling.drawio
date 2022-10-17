@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T17:39:21.621Z" agent="5.0 (Macintosh)" etag="i9eAb-wiI6VnQ_EWLnWK" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T18:12:24.519Z" agent="5.0 (Macintosh)" etag="Ih_vIK3AJhcNI2Nghp7-" version="20.4.1" type="github">
   <diagram id="FBTlA72vC8UY698nI0QQ" name="Page-1">
     <mxGraphModel dx="1868" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="Rquj8ajDDeOmUkiDkYnA-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="60" y="200" width="200" height="470" as="geometry" />
         </mxCell>
-        <object label="" placeholders="1" MIC_PURPOSE="B3 or E6" MIC_MODEL="Countryman" TX_MODEL="Shure ULX1" TX_ID="Wireless TX01" RF_FREQ="" RX_ID="Wireless RX01" RX_MODEL="Shure ULX-S" MIC_ID="X" id="Rquj8ajDDeOmUkiDkYnA-1">
+        <object label="" placeholders="1" MIC_PURPOSE="B3/B6/E6" MIC_MODEL="Countryman" TX_MODEL="Shure ULX1" TX_ID="Wireless TX01" RF_FREQ="" RX_ID="Wireless RX01" RX_MODEL="Shure ULX-S" MIC_ID="X" id="Rquj8ajDDeOmUkiDkYnA-1">
           <mxCell style="group" parent="1" vertex="1" connectable="0">
             <mxGeometry x="-30.000000000000057" y="240" width="917.3299999999999" height="80" as="geometry" />
           </mxCell>
@@ -133,7 +133,7 @@
         <mxCell id="Rquj8ajDDeOmUkiDkYnA-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="Rquj8ajDDeOmUkiDkYnA-44" vertex="1">
           <mxGeometry width="280" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="3Zzp8ogsjRMphogeBh2j-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Rquj8ajDDeOmUkiDkYnA-44">
+        <mxCell id="3Zzp8ogsjRMphogeBh2j-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="Rquj8ajDDeOmUkiDkYnA-44" vertex="1">
           <mxGeometry width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Rquj8ajDDeOmUkiDkYnA-38" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="Rquj8ajDDeOmUkiDkYnA-44" source="Rquj8ajDDeOmUkiDkYnA-37" target="Rquj8ajDDeOmUkiDkYnA-37" edge="1">
@@ -142,13 +142,13 @@
             <mxPoint x="530" y="-30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Zzp8ogsjRMphogeBh2j-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=60;fillColor=#FFF4C3;strokeColor=#b85450;" vertex="1" parent="Rquj8ajDDeOmUkiDkYnA-44">
+        <mxCell id="3Zzp8ogsjRMphogeBh2j-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=60;fillColor=#FFF4C3;strokeColor=#b85450;" parent="Rquj8ajDDeOmUkiDkYnA-44" vertex="1">
           <mxGeometry width="280" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Rquj8ajDDeOmUkiDkYnA-39" value="Theatre VCU" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" parent="Rquj8ajDDeOmUkiDkYnA-44" vertex="1">
           <mxGeometry width="180" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="3Zzp8ogsjRMphogeBh2j-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=60;fillColor=none;" vertex="1" parent="Rquj8ajDDeOmUkiDkYnA-44">
+        <mxCell id="3Zzp8ogsjRMphogeBh2j-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=60;fillColor=none;" parent="Rquj8ajDDeOmUkiDkYnA-44" vertex="1">
           <mxGeometry y="35" width="280" height="105" as="geometry" />
         </mxCell>
         <mxCell id="Rquj8ajDDeOmUkiDkYnA-40" value="&lt;div align=&quot;left&quot;&gt;Countryman Associates&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Rquj8ajDDeOmUkiDkYnA-44" vertex="1">
@@ -169,10 +169,10 @@
         <mxCell id="Rquj8ajDDeOmUkiDkYnA-47" value="&lt;div&gt;Tested GOOD/BAD&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DATE: 01/01/1981&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="410" y="730" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3Zzp8ogsjRMphogeBh2j-1" value="Example Labels" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;" vertex="1" parent="1">
+        <mxCell id="3Zzp8ogsjRMphogeBh2j-1" value="Example Labels" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="60" y="870" width="450" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3Zzp8ogsjRMphogeBh2j-6" value="&lt;div&gt;Color of Top Bar is color of Element (Tan/Cocoa/Beige)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Color of Strip is Sensitivity Color Band&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="3Zzp8ogsjRMphogeBh2j-6" value="&lt;div&gt;Color of Top Bar is color of Element (Tan/Cocoa/Beige)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Color of Strip is Sensitivity Color Band&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="60" y="930" width="510" height="60" as="geometry" />
         </mxCell>
       </root>
